@@ -1,0 +1,1 @@
+var json_BER_13 = {"type":"FeatureCollection","name":"BER_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Localidad":"Ushuaia","Entidad":"UATRE\/OSPRERA","Direccion":"Kayen 244","Numero":"002"},"geometry":{"type":"Point","coordinates":[-68.32628,-54.817034]}}]}
